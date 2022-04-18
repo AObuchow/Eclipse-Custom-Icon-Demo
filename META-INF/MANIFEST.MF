@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IconReplacement
+Bundle-SymbolicName: IconReplacement
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.debug.ui;bundle-version="3.16.0"
+Automatic-Module-Name: IconReplacement
+Bundle-RequiredExecutionEnvironment: JavaSE-17
